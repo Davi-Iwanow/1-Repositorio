@@ -5,11 +5,14 @@
 }
 
 body{
-    background-color: rgb(187, 154, 218);
+    background-color: rgb(252, 250, 253);
 }
+img.lado{
+    float:right ;
 
+}
 main{
-    background-color: rgb(56, 8, 100);
+    background-color: rgb(188, 173, 202);
     width: 500px;
     margin: auto;
     padding: 10px;
